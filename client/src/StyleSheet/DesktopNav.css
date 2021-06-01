@@ -1,0 +1,22 @@
+.DesktopNav_container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo {
+	width: 30%;
+}
+
+.DesktopNavLeft_container {
+	width: 30%;
+}
+
+.DesktopNavRight_container {
+	display: flex;
+	align-items: center;
+}
+
+.DesktopNavRight_container > h3 {
+	margin-right: 20mm;
+}
