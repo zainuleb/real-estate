@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "mysql": "github:mysqljs/mysql",
+    "mysql2": "^2.2.5",
     "react-device-detect": "^1.17.0"
   }
 }
